@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moonknife-cmyk
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning javascript & python
 - 📫 How to reach me @wrightshalaine@gmail.com
 
 <!---
